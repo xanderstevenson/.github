@@ -1,0 +1,13 @@
+{
+    "name": "WoD Workflow",
+    "description": "wod-workflow starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
