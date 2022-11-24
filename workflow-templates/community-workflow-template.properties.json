@@ -1,0 +1,12 @@
+    "name": "community-workflow-template",
+    "description": "community-workflow-template starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
